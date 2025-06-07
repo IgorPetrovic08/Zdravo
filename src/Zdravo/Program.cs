@@ -1,2 +1,2 @@
 ﻿
-Console.WriteLine("Zdravo");
+Console.WriteLine("Zdravo, svijete");
